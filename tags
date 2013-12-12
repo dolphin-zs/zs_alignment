@@ -1,0 +1,207 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+ARRAY_2	Array2.h	4;"	d
+CPPair	backup/model12.h	/^		CPPair():count(0),prob(0){}$/;"	f	class:CPPair
+CPPair	backup/model12.h	/^		CPPair(double c, double p):count(c), prob(p){}$/;"	f	class:CPPair
+CPPair	backup/model12.h	/^class CPPair$/;"	c
+CPPair	model12.h	/^		CPPair():count(0),prob(0){}$/;"	f	class:CPPair
+CPPair	model12.h	/^		CPPair(double c, double p):count(c), prob(p){}$/;"	f	class:CPPair
+CPPair	model12.h	/^class CPPair$/;"	c
+EList	backup/model12.h	/^		VcbList& EList;$/;"	m	class:model12
+EList	model12.h	/^		VcbList& EList;$/;"	m	class:model12
+FList	backup/model12.h	/^		VcbList& FList;$/;"	m	class:model12
+FList	model12.h	/^		VcbList& FList;$/;"	m	class:model12
+G1	backup/gl_defs.h	/^const long long G1 = MAX_SENTENCE_LENGTH + 5;$/;"	v
+G1	gl_defs.h	/^const long long G1 = MAX_SENTENCE_LENGTH + 5;$/;"	v
+G2	backup/gl_defs.h	/^const long long G2 = G1*G1, G3 = G2*G1;$/;"	v
+G2	gl_defs.h	/^const long long G2 = G1*G1, G3 = G2*G1;$/;"	v
+G3	backup/gl_defs.h	/^const long long G2 = G1*G1, G3 = G2*G1;$/;"	v
+G3	gl_defs.h	/^const long long G2 = G1*G1, G3 = G2*G1;$/;"	v
+GL_DEFS_H	backup/gl_defs.h	4;"	d
+GL_DEFS_H	gl_defs.h	4;"	d
+HMM	hmm.h	4;"	d
+Index	Array2.h	/^typedef unsigned int Index;$/;"	t
+MAX_SENTENCE_LENGTH	backup/gl_defs.h	/^const unsigned int MAX_SENTENCE_LENGTH = 105;$/;"	v
+MAX_SENTENCE_LENGTH	gl_defs.h	/^const unsigned int MAX_SENTENCE_LENGTH = 105;$/;"	v
+MAX_VOCAB_SIZE	backup/gl_defs.h	/^const unsigned int MAX_VOCAB_SIZE = UINT_MAX;$/;"	v
+MAX_VOCAB_SIZE	gl_defs.h	/^const unsigned int MAX_VOCAB_SIZE = UINT_MAX;$/;"	v
+MAX_W	backup/gl_defs.h	/^const int MAX_W = 460000;$/;"	v
+MAX_W	gl_defs.h	/^const int MAX_W = 460000;$/;"	v
+MODEL12_H	backup/model12.h	4;"	d
+MODEL12_H	model12.h	4;"	d
+PositionIndex	backup/gl_defs.h	/^typedef unsigned int PositionIndex;$/;"	t
+PositionIndex	gl_defs.h	/^typedef unsigned int PositionIndex;$/;"	t
+SENTENCE_H	backup/sentence.h	4;"	d
+SENTENCE_H	sentence.h	4;"	d
+SentPair	backup/sentence.h	/^		SentPair(){}$/;"	f	class:SentPair
+SentPair	backup/sentence.h	/^class SentPair$/;"	c
+SentPair	sentence.h	/^		SentPair(){}$/;"	f	class:SentPair
+SentPair	sentence.h	/^class SentPair$/;"	c
+SentenceHandle	backup/sentence.cpp	/^SentenceHandle::SentenceHandle(const char* fn){$/;"	f	class:SentenceHandle
+SentenceHandle	backup/sentence.h	/^class SentenceHandle$/;"	c
+SentenceHandle	sentence.cpp	/^SentenceHandle::SentenceHandle(const char* fn){$/;"	f	class:SentenceHandle
+SentenceHandle	sentence.h	/^class SentenceHandle$/;"	c
+TRAIN_BUFFER_SIZE	backup/gl_defs.h	/^const int TRAIN_BUFFER_SIZE = 50000;$/;"	v
+TRAIN_BUFFER_SIZE	gl_defs.h	/^const int TRAIN_BUFFER_SIZE = 50000;$/;"	v
+VOCAB_H	backup/vocab.h	4;"	d
+VOCAB_H	vocab.h	4;"	d
+VcbList	backup/vocab.h	/^		VcbList(const VcbList& a):volist(a.volist), s2i(a.s2i), total(a.total), noUniqueTokens(a.noUniqueTokens), filename(a.filename){}$/;"	f	class:VcbList
+VcbList	backup/vocab.h	/^		VcbList(const char* p):volist(), total(0), noUniqueTokens(0), filename(p){}$/;"	f	class:VcbList
+VcbList	backup/vocab.h	/^class VcbList$/;"	c
+VcbList	vocab.h	/^		VcbList(const VcbList& a):volist(a.volist), s2i(a.s2i), total(a.total), noUniqueTokens(a.noUniqueTokens), filename(a.filename){}$/;"	f	class:VcbList
+VcbList	vocab.h	/^		VcbList(const char* p):volist(), total(0), noUniqueTokens(0), filename(p){}$/;"	f	class:VcbList
+VcbList	vocab.h	/^class VcbList$/;"	c
+WordEntry	backup/vocab.h	/^		WordEntry():word("\\0"), freq(0){};$/;"	f	class:WordEntry
+WordEntry	backup/vocab.h	/^		WordEntry(string s, int f):word(s), freq(f){};$/;"	f	class:WordEntry
+WordEntry	backup/vocab.h	/^class WordEntry$/;"	c
+WordEntry	vocab.h	/^		WordEntry():word("\\0"), freq(0){};$/;"	f	class:WordEntry
+WordEntry	vocab.h	/^		WordEntry(string s, int f):word(s), freq(f){};$/;"	f	class:WordEntry
+WordEntry	vocab.h	/^class WordEntry$/;"	c
+WordIndex	backup/gl_defs.h	/^typedef unsigned int WordIndex;$/;"	t
+WordIndex	gl_defs.h	/^typedef unsigned int WordIndex;$/;"	t
+WordPairIds	backup/gl_defs.h	/^typedef pair<WordIndex, WordIndex> WordPairIds;$/;"	t
+WordPairIds	gl_defs.h	/^typedef pair<WordIndex, WordIndex> WordPairIds;$/;"	t
+__DEPRECATED	backup/main.cpp	1;"	d	file:
+__DEPRECATED	backup/model12.h	6;"	d
+__DEPRECATED	main.cpp	1;"	d	file:
+__DEPRECATED	model12.h	6;"	d
+array2	Array2.h	/^		array2(): h1(0), h2(0) {};$/;"	f	class:array2
+array2	Array2.h	/^		array2(Index _h1, Index _h2): p(_h1*_h2), h1(_h1), h2(_h2) {};$/;"	f	class:array2
+array2	Array2.h	/^		array2(Index _h1, Index _h2, const T& _init): p(_h1*_h2, _init), h1(_h1), h2(_h2) {};$/;"	f	class:array2
+array2	Array2.h	/^template< class T, class Y=vector<T> > class array2$/;"	c
+begin	Array2.h	/^		inline T* begin(){$/;"	f	class:array2
+begin	Array2.h	/^		inline const T* begin() const{$/;"	f	class:array2
+cal_ef	backup/model12.h	/^		hash_map<WordPairIds, CPPair, hashpair, equal_to<WordPairIds> > cal_ef;$/;"	m	class:model12
+cal_ef	model12.h	/^		hash_map<WordPairIds, CPPair, hashpair, equal_to<WordPairIds> > cal_ef;$/;"	m	class:model12
+clear	backup/sentence.h	/^		void clear(){$/;"	f	class:SentPair
+clear	sentence.h	/^		void clear(){$/;"	f	class:SentPair
+cooc_filename	backup/model12.h	/^		const char* cooc_filename;$/;"	m	class:model12
+count	backup/model12.h	/^		double count;$/;"	m	class:CPPair
+count	model12.h	/^		double count;$/;"	m	class:CPPair
+count_e	backup/model12.h	/^		map<WordIndex, double> count_e;$/;"	m	class:model12
+count_e	model12.h	/^		map<WordIndex, double> count_e;$/;"	m	class:model12
+count_ilm	backup/model12.h	/^		map<WordIndex, double> count_ilm;$/;"	m	class:model12
+count_ilm	model12.h	/^		map<WordIndex, double> count_ilm;$/;"	m	class:model12
+count_jilm	backup/model12.h	/^		map<WordIndex, double> count_jilm;$/;"	m	class:model12
+count_jilm	model12.h	/^		map<WordIndex, double> count_jilm;$/;"	m	class:model12
+count_jj_jl	hmm.h	/^		map<WordIndex, double> count_jj_jl;$/;"	m	class:hmm
+count_jl	hmm.h	/^		map<WordIndex, double> count_jl;$/;"	m	class:hmm
+count_jlm	backup/model12.h	/^		map<WordIndex, double> count_jlm;$/;"	m	class:model12
+count_jlm	model12.h	/^		map<WordIndex, double> count_jlm;$/;"	m	class:model12
+currentSentence	backup/sentence.h	/^		int currentSentence;$/;"	m	class:SentenceHandle
+currentSentence	sentence.h	/^		int currentSentence;$/;"	m	class:SentenceHandle
+em_algo1	backup/model12.cpp	/^void model12::em_algo1(int noIterations){$/;"	f	class:model12
+em_algo1	model12.cpp	/^void model12::em_algo1(int noIterations){$/;"	f	class:model12
+em_algo2	backup/model12.cpp	/^void model12::em_algo2(int noIterations){$/;"	f	class:model12
+em_algo2	model12.cpp	/^void model12::em_algo2(int noIterations){$/;"	f	class:model12
+end	Array2.h	/^		inline T* end(){$/;"	f	class:array2
+end	Array2.h	/^		inline const T* end() const{$/;"	f	class:array2
+esent	backup/sentence.h	/^		vector<WordIndex> esent;$/;"	m	class:SentPair
+esent	sentence.h	/^		vector<WordIndex> esent;$/;"	m	class:SentPair
+filename	backup/sentence.h	/^		const char* filename;$/;"	m	class:SentenceHandle
+filename	backup/vocab.h	/^		const char* filename;$/;"	m	class:VcbList
+filename	sentence.h	/^		const char* filename;$/;"	m	class:SentenceHandle
+filename	vocab.h	/^		const char* filename;$/;"	m	class:VcbList
+freq	backup/vocab.h	/^		double freq;$/;"	m	class:WordEntry
+freq	vocab.h	/^		double freq;$/;"	m	class:WordEntry
+fsent	backup/sentence.h	/^		vector<WordIndex> fsent;$/;"	m	class:SentPair
+fsent	sentence.h	/^		vector<WordIndex> fsent;$/;"	m	class:SentPair
+getNextSentence	backup/sentence.cpp	/^bool SentenceHandle::getNextSentence(SentPair& sent){$/;"	f	class:SentenceHandle
+getNextSentence	sentence.cpp	/^bool SentenceHandle::getNextSentence(SentPair& sent){$/;"	f	class:SentenceHandle
+getSentenceNo	backup/sentence.h	/^		int getSentenceNo() const{$/;"	f	class:SentPair
+getSentenceNo	sentence.h	/^		int getSentenceNo() const{$/;"	f	class:SentPair
+getVocalList	backup/vocab.h	/^		inline vector<WordEntry>& getVocalList() { return volist; }$/;"	f	class:VcbList
+getVocalList	vocab.h	/^		inline vector<WordEntry>& getVocalList() { return volist; }$/;"	f	class:VcbList
+get_esent	backup/sentence.h	/^		const vector<WordIndex>& get_esent() const{$/;"	f	class:SentPair
+get_esent	sentence.h	/^		const vector<WordIndex>& get_esent() const{$/;"	f	class:SentPair
+get_fsent	backup/sentence.h	/^		const vector<WordIndex>& get_fsent() const{$/;"	f	class:SentPair
+get_fsent	sentence.h	/^		const vector<WordIndex>& get_fsent() const{$/;"	f	class:SentPair
+getlen1	Array2.h	/^		inline Index getlen1() const{ return h1; }$/;"	f	class:array2
+getlen2	Array2.h	/^		inline Index getlen2() const{ return h2; }$/;"	f	class:array2
+getval	Array2.h	/^		inline T getval(Index i, Index j){$/;"	f	class:array2
+getval	Array2.h	/^		inline const T getval(Index i, Index j) const{$/;"	f	class:array2
+h1	Array2.h	/^		Index h1, h2;$/;"	m	class:array2
+h2	Array2.h	/^		Index h1, h2;$/;"	m	class:array2
+hashpair	backup/model12.h	/^class hashpair: public unary_function< pair<WordIndex, WordIndex>, size_t>$/;"	c
+hashpair	model12.h	/^class hashpair: public unary_function< pair<WordIndex, WordIndex>, size_t>$/;"	c
+hmm	hmm.h	/^		hmm(VcbList& el, VcbList& fl, SentenceHandle& sh): model12(el, fl, sh) {}$/;"	f	class:hmm
+hmm	hmm.h	/^		hmm(model12& tt): model12(tt) {}$/;"	f	class:hmm
+hmm	hmm.h	/^class hmm : public model12$/;"	c
+hmm_algo	hmm.cpp	/^void hmm::hmm_algo(int noIterations){$/;"	f	class:hmm
+hmm_initialization	hmm.cpp	/^void hmm::hmm_initialization(){$/;"	f	class:hmm
+initialization	backup/model12.cpp	/^void model12::initialization(){$/;"	f	class:model12
+initialization	model12.cpp	/^void model12::initialization(){$/;"	f	class:model12
+main	Array2.cpp	/^int main(){$/;"	f
+main	backup/main.cpp	/^int main(int argc, char **argv)$/;"	f
+main	main.cpp	/^int main(int argc, char **argv)$/;"	f
+model12	backup/model12.h	/^		model12(const char* fn,VcbList& el, VcbList& fl, SentenceHandle& sh):cooc_filename(fn), EList(el), FList(fl), sHander(sh){}$/;"	f	class:model12
+model12	backup/model12.h	/^class model12$/;"	c
+model12	model12.h	/^		model12(VcbList& el, VcbList& fl, SentenceHandle& sh): EList(el), FList(fl), sHander(sh) {}$/;"	f	class:model12
+model12	model12.h	/^class model12$/;"	c
+new_start	backup/sentence.cpp	/^void SentenceHandle::new_start(){$/;"	f	class:SentenceHandle
+new_start	sentence.cpp	/^void SentenceHandle::new_start(){$/;"	f	class:SentenceHandle
+noOcc	backup/sentence.h	/^		float noOcc;$/;"	m	class:SentPair
+noOcc	sentence.h	/^		float noOcc;$/;"	m	class:SentPair
+noSentInBuffer	backup/sentence.h	/^		int noSentInBuffer;$/;"	m	class:SentenceHandle
+noSentInBuffer	sentence.h	/^		int noSentInBuffer;$/;"	m	class:SentenceHandle
+noUniqueTokens	backup/vocab.h	/^		WordIndex noUniqueTokens;$/;"	m	class:VcbList
+noUniqueTokens	vocab.h	/^		WordIndex noUniqueTokens;$/;"	m	class:VcbList
+operator ()	Array2.h	/^		inline T& operator () (Index i, Index j){$/;"	f	class:array2
+operator ()	Array2.h	/^		inline const T& operator () (Index i, Index j) const{$/;"	f	class:array2
+operator ()	backup/model12.h	/^		size_t operator() (const pair<WordIndex, WordIndex>& key) const$/;"	f	class:hashpair
+operator ()	model12.h	/^		size_t operator() (const pair<WordIndex, WordIndex>& key) const$/;"	f	class:hashpair
+operator []	backup/vocab.h	/^		const string operator[](WordIndex id){$/;"	f	class:VcbList
+operator []	backup/vocab.h	/^		int operator[](const string& x) const{$/;"	f	class:VcbList
+operator []	vocab.h	/^		const string operator[](WordIndex id){$/;"	f	class:VcbList
+operator []	vocab.h	/^		int operator[](const string& x) const{$/;"	f	class:VcbList
+p	Array2.h	/^		Y p;$/;"	m	class:array2
+p_inputFile	backup/sentence.h	/^		ifstream* p_inputFile;$/;"	m	class:SentenceHandle
+p_inputFile	sentence.h	/^		ifstream* p_inputFile;$/;"	m	class:SentenceHandle
+p_jj_jl	hmm.h	/^		map<WordIndex, double> p_jj_jl;$/;"	m	class:hmm
+pair_no	backup/sentence.h	/^		int pair_no;$/;"	m	class:SentenceHandle
+pair_no	sentence.h	/^		int pair_no;$/;"	m	class:SentenceHandle
+print1	Array2.cpp	/^void print1(const array2<double>& kk){$/;"	f
+print2	Array2.cpp	/^void print2(const array2<double>& kk){$/;"	f
+print_align	backup/model12.cpp	/^void model12::print_align(ofstream& of)$/;"	f	class:model12
+print_align	model12.cpp	/^void model12::print_align(ofstream& of)$/;"	f	class:model12
+print_tfe	backup/model12.cpp	/^void model12::print_tfe(ofstream& of){$/;"	f	class:model12
+print_tfe	model12.cpp	/^void model12::print_tfe(const char* cooc_f, ofstream& of){$/;"	f	class:model12
+prob	backup/model12.h	/^		double prob;$/;"	m	class:CPPair
+prob	model12.h	/^		double prob;$/;"	m	class:CPPair
+q_jilm	backup/model12.h	/^		map<WordIndex, double> q_jilm;$/;"	m	class:model12
+q_jilm	model12.h	/^		map<WordIndex, double> q_jilm;$/;"	m	class:model12
+readNextSentence	backup/sentence.cpp	/^bool SentenceHandle::readNextSentence(SentPair& sent){$/;"	f	class:SentenceHandle
+readNextSentence	sentence.cpp	/^bool SentenceHandle::readNextSentence(SentPair& sent){$/;"	f	class:SentenceHandle
+readVocalList	backup/vocab.cpp	/^void VcbList::readVocalList()$/;"	f	class:VcbList
+readVocalList	vocab.cpp	/^void VcbList::readVocalList()$/;"	f	class:VcbList
+resize	Array2.h	/^		inline void resize(Index a, Index b){$/;"	f	class:array2
+resize	Array2.h	/^		inline void resize(Index a, Index b, const T& x){$/;"	f	class:array2
+s2i	backup/vocab.h	/^		map<string, int> s2i;$/;"	m	class:VcbList
+s2i	vocab.h	/^		map<string, int> s2i;$/;"	m	class:VcbList
+sHander	backup/model12.h	/^		SentenceHandle& sHander;$/;"	m	class:model12
+sHander	model12.h	/^		SentenceHandle& sHander;$/;"	m	class:model12
+sent_buffer	backup/sentence.h	/^		vector<SentPair> sent_buffer;$/;"	m	class:SentenceHandle
+sent_buffer	sentence.h	/^		vector<SentPair> sent_buffer;$/;"	m	class:SentenceHandle
+sentenceNo	backup/sentence.h	/^		int sentenceNo;$/;"	m	class:SentPair
+sentenceNo	sentence.h	/^		int sentenceNo;$/;"	m	class:SentPair
+setName	backup/vocab.h	/^		void setName(const char* p) { filename = p; }$/;"	f	class:VcbList
+setName	vocab.h	/^		void setName(const char* p) { filename = p; }$/;"	f	class:VcbList
+setval	Array2.h	/^		inline void setval(Index i, Index j, T x){$/;"	f	class:array2
+size	backup/vocab.h	/^		inline WordIndex size() const { return volist.size(); }$/;"	f	class:VcbList
+size	vocab.h	/^		inline WordIndex size() const { return volist.size(); }$/;"	f	class:VcbList
+total	backup/vocab.h	/^		double total;$/;"	m	class:VcbList
+total	vocab.h	/^		double total;$/;"	m	class:VcbList
+totalPair	backup/sentence.h	/^		int totalPair;$/;"	m	class:SentenceHandle
+totalPair	sentence.h	/^		int totalPair;$/;"	m	class:SentenceHandle
+totalVocab	backup/vocab.h	/^		inline double totalVocab() const { return total; }$/;"	f	class:VcbList
+totalVocab	vocab.h	/^		inline double totalVocab() const { return total; }$/;"	f	class:VcbList
+uniqTokens	backup/vocab.h	/^		inline WordIndex uniqTokens() const { return noUniqueTokens; }$/;"	f	class:VcbList
+uniqTokens	vocab.h	/^		inline WordIndex uniqTokens() const { return noUniqueTokens; }$/;"	f	class:VcbList
+volist	backup/vocab.h	/^		vector<WordEntry> volist;$/;"	m	class:VcbList
+volist	vocab.h	/^		vector<WordEntry> volist;$/;"	m	class:VcbList
+word	backup/vocab.h	/^		string word;$/;"	m	class:WordEntry
+word	vocab.h	/^		string word;$/;"	m	class:WordEntry
